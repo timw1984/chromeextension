@@ -1,4 +1,4 @@
-# chromeextension
+# Open Tab, Map Chrome Extension
 https://chrome.google.com/webstore/detail/open-tab-map/eehkgnjcficnmpnocjabenpcigiljeml
 
 This is a google chrome extension I have created using ESRI Leafelet.  
